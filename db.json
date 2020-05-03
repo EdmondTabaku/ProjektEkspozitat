@@ -1,5 +1,7 @@
 {
-"items": [
+  "total_count": 687,
+  "incomplete_results": false,
+  "items": [
     {
       "login": "moyheen",
       "id": 8110201,
@@ -631,5 +633,4 @@
       "score": 1.0
     }
   ]
-
 }
